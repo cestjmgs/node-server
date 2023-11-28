@@ -1,0 +1,12 @@
+¿Qué sucedio al usar async y await?
+La función se resolvía pero no se guardaba. 
+
+
+¿Qué sucedio al usar el método then()?
+Fue bastante similar a la función normal. 
+
+
+¿Qué diferencias encontraste entre async, await y el método then()?
+
+Async y await son más cortos, pero también se me hizo más complicado. Mientras que con then() y catch() es más entendible la lógica pero es 
+más largo el proceso. 

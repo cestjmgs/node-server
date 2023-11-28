@@ -1,0 +1,6 @@
+¿Qué es mi producto y para que sirve?
+El producto creado es una herramienta para el enlistamiento de tareas. Por medio de esta herramienta le va a ser posible registrar cuales son las distintas actividades que debe realizar en su día, asignarles un número para poder conocer cual es la cantidad de deberes que debe hacer durante el día, y finalmente indicar cuando esa tarea esté completada. Podrá agregar, eliminar y completar tareas para facilitar el seguimiento y cumpliento de las obligaciones de su día a día. 
+
+
+¿Cuáles son las funcionalidades más importantes y porque los usuarios las usarían?
+En ocasiones nos podemos sentir abrumados por la cantidad de trabajos/deberes que debemos realizar. La función principal de esta herramienta es brindar una ayuda a los usuarios para que puedan tener la visualización de cuales son esas actividades que debe tener presente a la hora de organizar su tiempo diario. Además de esto, con la función de completarTarea, es posible indicar cuales han sido las tareas que ha realizado y cuales siguen pendientes por realizar. Al indicar que una de sus tareas ya está completada, el mismo código le entregará la lista completa de todas las tareas indicando que esa tarea ya ha sido realizada y de esta forma poder observar cuales son las tareas que aún no ha finalizado y así elegir cual será la siguiente actividad a realizar. 
